@@ -80,7 +80,7 @@ To use the HTML page, connect the iframe sourceto the adddress where the gradio 
 
 
 *The Front End*
-[*The Front End*](ht)
+[*The Front End*](https://raw.githubusercontent.com/lou6891/MCSBT_Story_Generator/main/img/readme/img_1.png)
 
 *Example of a Chat*
 
